@@ -14,7 +14,7 @@ namespace HtmlToPdf
         {
             this.size = "A4";
             this.orientation = "Portrait";
-            this.width = "1280";
+            this.width = "1300";
             this.conversion_delay = "1";
         }
 
